@@ -8,6 +8,6 @@
 > and [*Shutao Li*](https://scholar.google.com/citations?user=PlBq8n8AAAAJ&hl=en).
 
 
-Code implementation of "_**FSNet: Focus Scanning Network for Camouflaged Object Detection**_" IEEE TIP 2023. [Paper](https://ieeexplore.ieee.org/document/10103836/) 
+Code implementation of "_**FSNet: Focus Scanning Network for Camouflaged Object Detection**_" IEEE TIP 2023. #[Paper](https://ieeexplore.ieee.org/document/10103836/) 
 
 Our code will be published soon
