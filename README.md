@@ -1,6 +1,6 @@
 # FSNet: Focus Scanning Network for Camouflaged Object Detection
 > **Authors:** 
-> [*Ze Song*](https://github.com/SongZeHNU),
+> [*Ze Song*](https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN&oi=sra),
 > [*Xudong Kang*](https://scholar.google.com/citations?user=5XOeLZYAAAAJ&hl=en),
 > [*Xiaohui Wei*](https://scholar.google.co.il/citations?user=Uq50h3gAAAAJ&hl=zh-CN),
 > Haibo Liu,
