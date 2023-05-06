@@ -8,7 +8,7 @@
 > and [*Shutao Li*](https://scholar.google.com/citations?user=PlBq8n8AAAAJ&hl=en).
 
 
-Code implementation of "_**FSNet: Focus Scanning Network for Camouflaged Object Detection**_".  IEEE TIP 2023. [Paper (https://ieeexplore.ieee.org/document/10103836/)]
+Code implementation of "_**FSNet: Focus Scanning Network for Camouflaged Object Detection**_".  IEEE TIP 2023.[Paper](https://ieeexplore.ieee.org/document/10103836/)
 
 ## Prerequisites
 Install Prerequisites with the following command:
@@ -53,7 +53,7 @@ We use public one-key evaluation, which is written in MATLAB code ([link](https:
 Please follow this the instructions in `./eval/main.m` and just run it to generate the evaluation results in `./res/`.
 
 
-## 5. Citation
+## Citation
 
 Please cite our paper if you find the work useful, thanks!
 @article{song2023fsnet,
