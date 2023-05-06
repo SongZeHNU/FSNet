@@ -56,13 +56,14 @@ Please follow this the instructions in `./eval/main.m` and just run it to genera
 ## Citation
 
 Please cite our paper if you find the work useful, thanks!
-@article{song2023fsnet,
-  title={FSNet: Focus Scanning Network for Camouflaged Object Detection},
-  author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Liu, Haibo and Dian, Renwei and Li, Shutao},
-  journal={IEEE Transactions on Image Processing},
-  year={2023},
-  publisher={IEEE}
-}
+
+	@article{song2023fsnet,
+	   title={FSNet: Focus Scanning Network for Camouflaged Object Detection},
+  	   author={Song, Ze and Kang, Xudong and Wei, Xiaohui and Liu, Haibo and Dian, Renwei and Li, Shutao},
+  	   journal={IEEE Transactions on Image Processing},
+  	   year={2023},
+  	   publisher={IEEE}
+	}
 	
 
 **[⬆ back to top](#1-preface)**
