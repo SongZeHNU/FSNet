@@ -27,10 +27,10 @@ Please download model from the official websites:
 
 We use data from publicly available datasets:
 + downloading testing dataset and move it into `./Dataset/TestDataset/`, 
-    which can be found in [Google Drive](https://drive.google.com/file/d/120wKRvwXpqqeEejw60lYsEyZ4SOicR3M/view?usp=sharing).
+    which can be found in [Google Drive](https://drive.google.com/file/d/1SLRB5Wg1Hdy7CQ74s3mTQ3ChhjFRSFdZ/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1F3tVEWYzKYp5NBv3cjiaAg) (extraction code: fapn). 
 
 + downloading training/validation dataset and move it into `./Dataset/TrainValDataset/`, 
-    which can be found in [Google Drive](https://drive.google.com/file/d/1bTIb2qo7WXfyLgCn43Pz0ZDQ4XceO9dE/view?usp=sharing)
+    which can be found in [Google Drive](https://drive.google.com/file/d/1Kifp7I0n9dlWKXXNIbN7kgyokoRY4Yz7/view?usp=sharing) or [Baidu Drive](https://pan.baidu.com/s/1uyQz0b_r_5yCee0orSw7EA) (extraction code: fapn). 
 
 ### 3. Train
 
