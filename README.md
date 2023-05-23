@@ -47,6 +47,11 @@ To test with trained model:
 python MyTesting.py --pth_path './snapshot/FSNet/Net_epoch_best.pth'
 ```
 
+downloading our weights and move it into `./snapshot/FSNet/`, 
+    which can be found from [Google Drive](https://drive.google.com/file/d/1Bgi8MThe1eEE9fYyaHuLHacO1Cs_e9Ta/view?usp=share_link).
+    
+ You can also download prediction maps from [Google Drive](https://drive.google.com/file/d/1kT9l9NrwWCffP4EQ7ITBd834389xY8iV/view?usp=share_link).
+
 ### 4. Evaluation 
 
 We use public one-key evaluation, which is written in MATLAB code ([link](https://drive.google.com/file/d/1_h4_CjD5GKEf7B1MRuzye97H0MXf2GE9/view?usp=sharing)). 
